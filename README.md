@@ -40,6 +40,8 @@ But there's a catch: you must **load your slingshot with the correct answer firs
 
 Use the **left and right arrow keys** to move around, line up your shots, and catch as many bats as you can!
 
+Watch out! The longer you play, the more bats appear and the faster they fly!
+
 ### ⏱️ Watch the clock!
 
 You have a maximum of **4 minutes** to achieve the highest score possible. But be careful! Your energy level decreases if you hit a bat you haven't caught before, or if you fire a projectile with an incorrect answer.
@@ -76,6 +78,8 @@ Des chauves-souris transportent des opérations mathématiques au-dessus de votr
 Mais attention, il faut d'abord **charger le lance-pierre avec le résultat de l'opération**. Pour cela, saisissez votre réponse au clavier, puis appuyez sur la **barre d'espace** pour tirer.
 
 Déplacez-vous vers la gauche et la droite à l'aide des **touches fléchées** pour ajuster votre tir et attraper un maximum de chauves-souris !
+
+Attention ! Plus le temps passe, plus il y'a de chauves souris et plus elles sont rapides ! 
 
 ### ⏱️ Attention, le temps est compté !
 
