@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_TO_YOUR_PROMOTIONAL_IMAGE" alt="Calculus' Cave — a fun math game for kids" width="800">
+  <img src="https://raw.githubusercontent.com/ludosevilla/CalculusCave/refs/heads/main/img/pres.png" alt="Calculus' Cave — a fun math game for kids" width="800">
 </p>
 
 <p align="center">
