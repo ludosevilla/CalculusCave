@@ -1,5 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ludosevilla/CalculusCave/refs/heads/main/img/pres.png" alt="Calculus' Cave — a fun math game for kids" width="800">
+  <br/>
+  <img src="https://raw.githubusercontent.com/ludosevilla/CalculusCave/refs/heads/main/img/calculus1.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/ludosevilla/CalculusCave/refs/heads/main/img/calculus2.png" width="400"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/ludosevilla/CalculusCave/refs/heads/main/img/calculus3.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/ludosevilla/CalculusCave/refs/heads/main/img/calculus4.png" width="400"/>
+
 </p>
 
 <p align="center">
@@ -9,6 +16,7 @@
 </p>
 
 <p align="center">
+  
   <a href="#version-française">🇫🇷 Lire la version française</a>
 </p>
 
