@@ -4,6 +4,8 @@
 
 <p align="center">
   <strong>Calculus' Cave</strong> · A fun math game for kids for Micro-8 computer
+  <br/><br/>
+  <a href="https://youtu.be/SQz6xDx0Dwk">See video - Voir la vidéo</a>
 </p>
 
 <p align="center">
